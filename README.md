@@ -9,9 +9,7 @@ target achievement rate (%), Monthly revenue growth rate (%)
 1. **Sales Trends**: The total actual sales met the target sales with 5%. Particularly
 the East and South regions perform well by 23% and 20% overflow over target
 sales. The North region needs the most improvement as it fails to meet the
-target by 35%, particularly furniture and electronics.
-
-However, both the total units sold and total sales show a downward trend from
+target by 35%, particularly furniture and electronics.However, both the total units sold and total sales show a downward trend from
 January to March, indicating a 23% decline in sales performance over January
 to February
 
@@ -31,3 +29,25 @@ underperformed compared to other regions during the entire period.
 Electronic sales peaked in the East region at the end of January and in
 February, while the North and West regions consistently underperformed
 during this period.
+
+
+**Recommendations**:
+● **Investigate Sales Incline and Decline:** The East region performed
+exceptionally well throughout January and the first three weeks of February. In
+contrast, the West region performed well in clothing in January (third week),
+while the North region showed particularly poor performance in furniture sales.
+Analyzing factors such as market conditions, product availability, and seasonal
+demand can help identify the underlying reasons.
+● **Focus on Areas on High-Performing Products:** Strengthen strategies in the
+West and North for clothing and in the East region for furniture products where
+sales are consistently high.
+● **Improve Underperforming Areas:** Addressing low sales in regions like the
+North, with a focus on furniture and electronics, the marketing efforts and
+strategies need reformation.
+● **Leverage Sales Team Strengths:** Recognizing top-performing salespeople,
+such as Ali Khan, and incentivizing their efforts can motivate others. Additionally,
+offering further training to lower-performing salespeople, like John Doe, can help
+balance overall performance.
+● **Seasonal Promotions:** There is a decline in sales from January to February.
+Promotional activities can boost sales during slower periods, particularly focusing
+sales in February to March.
