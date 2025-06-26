@@ -38,16 +38,20 @@ contrast, the West region performed well in clothing in January (third week),
 while the North region showed particularly poor performance in furniture sales.
 Analyzing factors such as market conditions, product availability, and seasonal
 demand can help identify the underlying reasons.
+
 ● **Focus on Areas on High-Performing Products:** Strengthen strategies in the
 West and North for clothing and in the East region for furniture products where
 sales are consistently high.
+
 ● **Improve Underperforming Areas:** Addressing low sales in regions like the
 North, with a focus on furniture and electronics, the marketing efforts and
 strategies need reformation.
+
 ● **Leverage Sales Team Strengths:** Recognizing top-performing salespeople,
 such as Ali Khan, and incentivizing their efforts can motivate others. Additionally,
 offering further training to lower-performing salespeople, like John Doe, can help
 balance overall performance.
+
 ● **Seasonal Promotions:** There is a decline in sales from January to February.
 Promotional activities can boost sales during slower periods, particularly focusing
 sales in February to March.
